@@ -1,7 +1,7 @@
 ### Olá! eu sou o Marcos !
 <br>
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcus-miguel-b344a6240)
 
 <br>
 <br>
