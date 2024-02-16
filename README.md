@@ -21,16 +21,7 @@
 </div> 
 
 <br>
-<br>
-<br>
-
-### Especificacao do meu Computador!!!
-
-<br>
-
-![amd](https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-
+<br
 <br>
 <br>
 
