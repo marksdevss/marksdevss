@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## Tecnologias que eu uso e estou aprendendo !
+## Linguagens que eu estudo e estou aprendendo !
 
 <div style = "display inline_block"><br/>
 <img align = "center" alt ="html5" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
