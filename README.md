@@ -5,7 +5,7 @@
 <br>
 <br>
 
-![ marksdevsss GitHub stats](https://github-readme-stats.vercel.app/api?username=marksdevss&show_icons=true&bg_color=000010) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/marksdevss?cardType=level-alternate&theme=dark&preferLogin=false&Background=000000)](https://git.io/awesome-stats-card)
 
 <br>
 <br>
