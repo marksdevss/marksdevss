@@ -1,12 +1,9 @@
 ### Olá! eu sou o Marcos !
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-miguel-b344a6240)
-<br>
-<br>
-[![icloud](https://img.shields.io/badge/iCloud-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/marksdevss?cardType=level-alternate&theme=dark&preferLogin=false&Background=000000)](https://git.io/awesome-stats-card)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marksdevss&layout=compact)](https://github.com/marksdevss/github-readme-stats)
 
 <br>
 <br>
