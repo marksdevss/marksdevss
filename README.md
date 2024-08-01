@@ -174,7 +174,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=marksdevss/marksdevss&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=marksdevss/marksdevss&type=Date)](https://star-history.com/#marksdevss/marksdevss&Date)
 
 
 
